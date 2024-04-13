@@ -4,7 +4,7 @@ If you want to run it locally, then follow these steps.
 
 ## Steps :
 
-1. Open your terminal and run `git clone git@github.com:ebraj/MovieEBG.git`
+1. Open your terminal and run `git clone git@github.com:ebraj/pictureperks.git`
 2. Once the cloning is completed, open this cloned folder in IDE(Vscode).
 3. Create the `.env.local` file in the root directory as you need to provide the TMDB api in order to fetch the movie datas.
 4. Inside the `.env.local` file create the variable `REACT_APP_TMDB_KEY=_________________` (Add your own TMDB Api key from [TMDB Website](https://www.themoviedb.org/) by creating an account.)
